@@ -1,0 +1,41 @@
+_repo: Now-or-Never--13-Or-The-Adventures-of-Bobby-Bright_19473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2006-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Widows -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcsh 'Book industries and trade -- Juvenile fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcsh 'Money -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+title: Now or Never; Or, The Adventures of Bobby Bright
+url: http://www.gutenberg.org/ebooks/19473
